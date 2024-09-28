@@ -1,5 +1,7 @@
 # Elastic Stack Kubernetes Helm Charts
 
+[![Quick Deploy](https://pre-toolkit.console.aliyun.com/quick-deploy?repoUrl=https://github.com/Wanton-y/helm-charts.git&branch=main)]
+
 [![Build Status](https://img.shields.io/jenkins/s/https/devops-ci.elastic.co/job/elastic+helm-charts+main.svg)](https://devops-ci.elastic.co/job/elastic+helm-charts+main/) [![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/elastic)](https://artifacthub.io/packages/search?repo=elastic)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
