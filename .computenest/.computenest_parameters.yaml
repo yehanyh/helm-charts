@@ -1,0 +1,1 @@
+{"ChartValues":{},"HelmChartPath":"apm-server","ServiceType":"private","AllowedRegions":["cn-hangzhou","cn-shanghai","cn-beijing"],"ArtifactSourceType":"HelmChart","RepoName":"yehanyh/helm-charts","RegionId":"cn-hangzhou","CustomParameters":"","OutputType":"ClusterUrl"}
